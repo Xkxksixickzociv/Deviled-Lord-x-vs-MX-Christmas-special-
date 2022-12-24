@@ -1,0 +1,32 @@
+{
+	"storyName": "geez",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ondrugs",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		190,
+		180,
+		135
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"deviled",
+			"lordex",
+			[
+				190,
+				180,
+				135
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "islordxinthismodtoo"
+}
