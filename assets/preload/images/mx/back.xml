@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back0000" x="0" y="0" width="3840" height="1285"/>
+	<SubTexture name="back0001" x="0" y="0" width="3840" height="1285"/>
+	<SubTexture name="back0002" x="0" y="0" width="3840" height="1285"/>
+	<SubTexture name="back0003" x="0" y="1285" width="3840" height="1285"/>
+	<SubTexture name="back0004" x="0" y="1285" width="3840" height="1285"/>
+	<SubTexture name="back0005" x="0" y="1285" width="3840" height="1285"/>
+	<SubTexture name="back0006" x="0" y="2570" width="3840" height="1285"/>
+	<SubTexture name="back0007" x="0" y="2570" width="3840" height="1285"/>
+	<SubTexture name="back0008" x="0" y="2570" width="3840" height="1285"/>
+</TextureAtlas>
