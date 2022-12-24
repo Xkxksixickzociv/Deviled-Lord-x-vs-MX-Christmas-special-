@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-34,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pohsh",
+			"indices": [],
+			"name": "talking"
+		},
+		{
+			"offsets": [
+				-5,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				100,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-19,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-43,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				25,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dle"
+		},
+		{
+			"offsets": [
+				-6,
+				75
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "wrathing"
+		},
+		{
+			"offsets": [
+				-34,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				6,
+				7,
+				8,
+				8,
+				9,
+				10
+			],
+			"name": "talking"
+		},
+		{
+			"offsets": [
+				-34,
+				105
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "talking"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lord sex",
+	"position": [
+		80,
+		370
+	],
+	"healthicon": "lordex",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		90,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

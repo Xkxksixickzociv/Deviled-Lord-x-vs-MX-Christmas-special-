@@ -1,0 +1,203 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				315,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				236,
+				166
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				217,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				430,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				233,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				338,
+				138
+			],
+			"anim": "damag",
+			"fps": 24,
+			"name": "damag",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				540,
+				-150
+			],
+			"anim": "hurts",
+			"fps": 24,
+			"name": "hurts",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				276,
+				210
+			],
+			"anim": "poker",
+			"fps": 24,
+			"name": "poker",
+			"indices": []
+		},
+		{
+			"offsets": [
+				300,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bye bye",
+			"indices": [],
+			"name": "bye bye"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				240,
+				210
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "scream",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				1705,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "end"
+		},
+		{
+			"offsets": [
+				1704,
+				1526
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "start"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1700,
+				136
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/MX",
+	"position": [
+		580,
+		320
+	],
+	"healthicon": "MX",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		0,
+		0
+	],
+	"camera_position": [
+		620,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1.50000000000002
+}

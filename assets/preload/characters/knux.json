@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1504,
+				90
+			],
+			"anim": "start",
+			"fps": 24,
+			"name": "start",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/knux",
+	"position": [
+		690,
+		-630
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-900,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
